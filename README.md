@@ -28,7 +28,7 @@
 <div align="center">
 <h4>Contact</h4>
 <p>You can contact me at <a href="mailto:contact@julianley.com">contact@julianley.com</a><br>
-  Check out my website: <a href="https://julianley.com/">JulianLey.com</a>
+  Check out my website: <a href="https://julianley.com/" target="_blank">JulianLey.com</a>
 </p>
 </div>
   
