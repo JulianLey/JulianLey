@@ -23,9 +23,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianley&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=julianley&hide_border=true"/>
+<br>
+</div><br>
+<div align="center">
+<h4>Contact</h4>
+<p>You can contact me at <a href="mailto:contact@julianley.com">contact@julianley.com</a>
+</p>
 </div>
-
-
+  
 <!--
 **JulianLey/JulianLey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
