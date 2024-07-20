@@ -21,7 +21,7 @@
   Github Statistics
 </h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianley&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianley&hide_border=true"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=julianley&hide_border=true"/>
 <br>
 </div><br>
