@@ -12,7 +12,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,go,java,py,html,css,js" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cs,go,java,lua,py,html,css,js" /><br>
   <img src="https://skillicons.dev/icons?i=arduino,matlab,unity,blender,latex" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vim,neovim,vscode,maven" /><br>
 </div>
