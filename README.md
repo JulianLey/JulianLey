@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,go,java,lua,py,html,css,js" /><br>
   <img src="https://skillicons.dev/icons?i=arduino,matlab,unity,blender,latex" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vim,neovim,vscode,maven,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vim,neovim,vscode,maven,postgres,linux,arch" /><br>
 </div>
 
 <h3 align="center">
