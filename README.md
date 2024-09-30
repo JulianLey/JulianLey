@@ -16,14 +16,7 @@
   <img src="https://skillicons.dev/icons?i=arduino,matlab,unity,blender,latex" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vim,neovim,vscode,maven,postgres,linux,arch" /><br>
 </div>
-
-<h3 align="center">
-  Github Statistics
-</h3>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=julianley&hide_border=true"/>
 <br>
-</div><br>
 <div align="center">
 <h4>Contact</h4>
 <p>You can contact me at <a href="mailto:contact@julianley.com">contact@julianley.com</a><br>
